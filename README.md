@@ -1,3 +1,5 @@
+## 已失效！ Oboleted!
+
 ## Auto update the /etc/hosts file
 
 ### 自动更新/etc/hosts文件（用了近一年了，并结合着Lantern一起用，非常好用）
